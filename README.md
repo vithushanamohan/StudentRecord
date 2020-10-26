@@ -2,6 +2,10 @@ Student record system
 Laravel with bootstrap(UI)
 
 #Download project
+
+
+
+
 #cd StudentRecord
 #create student_details database
 #run php artisan migrate
